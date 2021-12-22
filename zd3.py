@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+Задание. Вывести данные , переданные переменной.
+
 
 def intro(**data):
     print("\nData type of argument: ",type(data))
